@@ -9,4 +9,4 @@ Requirements
 	Numpy 1.17.2
 	Matplotlib 3.1.1
 
-A special thank to Mpercept Technology from where YOLO code is borrowed. 
+
